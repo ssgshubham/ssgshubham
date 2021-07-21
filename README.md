@@ -1,5 +1,5 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjrealworld&label=Views&color=blue&style=plastic" alt="rjrealworld" /> </p>
+<p align="center"><b> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham<b>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssgshubham&label=Views&color=blue&style=plastic" alt="ssgshubham" /> </p></p>
 
 ## I'm a student, developer, learner, and a mentor!
 - 🏫 I'm currently a 2nd year undergrad at JIIT, Noida.
