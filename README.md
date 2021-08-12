@@ -1,15 +1,15 @@
-<p align="center"><b> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham<b>
+<p align="left"><b> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham<b>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssgshubham&label=Views&color=blue&style=plastic" alt="ssgshubham" /> </p></p>
 
-## I'm a student, developer, learner, and a mentor!
+## <center>I'm a student, developer, learner, and a mentor!
 - 🏫 I'm currently a 2nd year undergrad at JIIT, Noida.
 - 🎓 I'm a member of Google Cloud India community.
-- 👩‍💻 I'm currently learning DSA.
+- 👩‍💻 I'm currently learning Discrete Mathematics, Statistics, DSA.
 - 💬 Ask me about any tech related query.
 - 😄 Fun Fact: I have a good taste in movies and songs.
 - 🎓 I'm Unity Student Ambassador
-
-
+    </center>
+<!--
 ## Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -47,3 +47,4 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+--!>
