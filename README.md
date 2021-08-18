@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssgshubham&label=Views&color=blue&style=plastic" alt="ssgshubham" /> </p></p>
 
 ## <center>I'm a student, developer, learner, and a mentor!
-- 🏫 I'm currently a 2nd year undergrad at JIIT, Noida.
+- 🏫 I'm currently a 3rd year undergrad at JIIT, Noida.
 - 🎓 I'm a member of Google Cloud India community.
 - 👩‍💻 I'm currently learning Discrete Mathematics, Statistics, DSA.
 - 💬 Ask me about any tech related query.
