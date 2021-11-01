@@ -1,6 +1,6 @@
 <p align="left"><b> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham<b>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssgshubham&label=Views&color=blue&style=plastic" alt="ssgshubham" /> </p></p>
-
+<!--
 ## <center>I'm a student, developer, learner, and a mentor!
 - 🏫 I'm currently a 3rd year undergrad at JIIT, Noida.
 - 🎓 I'm a member of Google Cloud India community.
@@ -9,7 +9,7 @@
 - 😄 Fun Fact: I have a good taste in movies and songs.
 - 🎓 I'm Unity Student Ambassador
     </center>
-<!--
+
 ## Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
