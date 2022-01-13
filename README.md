@@ -1,5 +1,20 @@
-<p align="left"><b> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham<b>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shubham!](https://kunal-kushwaha.github.io) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssgshubham&label=Views&color=blue&style=plastic" alt="ssgshubham" /> </p></p>
+<a href="https://www.linkedin.com/in/ssg9878/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/ShubhamSarthak5">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:ssg.shubham9878@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.instagram.com/ssg_shubham/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+<br />
 <!--
 ## <center>I'm a student, developer, learner, and a mentor!
 - 🏫 I'm currently a 3rd year undergrad at JIIT, Noida.
