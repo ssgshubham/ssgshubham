@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shubham!](https://github.com/ssgshubham) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssgshubham&label=Views&color=blue&style=plastic" alt="ssgshubham" /> </p></p>
+
 <a href="https://www.linkedin.com/in/ssg9878/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -16,6 +16,7 @@
 <br />
 <br />
 <!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssgshubham&label=Views&color=blue&style=plastic" alt="ssgshubham" /> </p></p>
 ## <center>I'm a student, developer, learner, and a mentor!
 - 🏫 I'm currently a 3rd year undergrad at JIIT, Noida.
 - 🎓 I'm a member of Google Cloud India community.
